@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Hello hjx',
+  title: 'Hello',
   description: 'Just playing around',
   base: '/engineering/'
 }

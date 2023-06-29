@@ -1,1 +1,0 @@
-import{_ as t,o as a,c as o,a as e,b as c}from"./app-65e86ee0.js";const n={},r=e("h1",{id:"hello-hjx",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#hello-hjx","aria-hidden":"true"},"#"),c(" hello hjx")],-1),s=[r];function h(l,_){return a(),o("div",null,s)}const i=t(n,[["render",h],["__file","index.html.vue"]]);export{i as default};
